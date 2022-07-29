@@ -1,0 +1,47 @@
+.userstyle{
+    display: flex !important;
+    border: 2px solid black;
+    
+
+}
+.btn-primary:hover{
+    background-color: rgb(7, 48, 228) !important;
+}
+.adminstyle{
+    display: flex;
+    color: white;
+    background-color:rgb(57, 79, 104);
+    border-radius: 20px;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.react-calendar {
+   width: 100% !important;
+   border-radius:10px ;
+   background-color: #A5BECC !important;
+}
+.calstyle:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    transition-duration: 1s;
+}
+.record:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+
+}
+.react-calendar button {
+    border-radius: 10px;
+    height: 80px;
+}
+.accordion-button:not(.collapsed) {
+    background-color: #DFDFDE !important;
+  
+}
+.adminstyle:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.text-center {
+    text-align: center!important;
+    font-size: 30px !important;
+    font-family: monospace;
+}

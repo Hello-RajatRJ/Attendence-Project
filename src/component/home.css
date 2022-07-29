@@ -1,0 +1,17 @@
+.stylen{
+
+    text-decoration: none;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-weight: 500;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    line-height: 34px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #007c89;
+    transition: background-color  0.2s ease-in-out 0s, opacity 0.2s ease-in-out 0s;
+    padding: 0 20px;
+    height: 40px; 
+}

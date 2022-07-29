@@ -1,0 +1,51 @@
+
+
+.container{
+    background-color:white;
+ 
+    margin: 100px 0px;
+    
+}
+.style{
+    display: grid;  
+    margin-left:100px;
+}
+
+.style>input{
+width: 30%;
+padding: 12px 20px;
+}
+.style>button{
+    width: 10%;
+    padding: 12px 20px;
+   
+}
+
+
+
+
+.stapper{
+    display: flex;
+    position: absolute;
+    margin-left: 500px;
+
+}
+
+.styleN{
+    background-color: #b89d69; /* Green */
+    border: none;
+    color: white;
+    margin-top: 50px;
+    margin: 53px;
+    padding: 10px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+    
+
+}
+.active{
+    background-color: rgb(182, 96, 96);
+}

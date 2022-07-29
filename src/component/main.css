@@ -1,0 +1,31 @@
+.react-calendar__navigation{
+    width:200px
+}
+
+.time{
+   margin-left: 100px;
+    
+}
+.timec{
+    font-size: xx-large;
+    
+}
+.sibut{
+      text-decoration: none;
+    display: inline-block;
+    outline: none;
+    cursor: pointer;
+    font-weight: 500;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    line-height: 34px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #007c89;
+    transition: background-color  0.2s ease-in-out 0s, opacity 0.2s ease-in-out 0s;
+    padding: 0 18px;
+    margin-left: 20px;
+}
+.dry{
+    height: auto;
+}
